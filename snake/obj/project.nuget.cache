@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wIMGbibBJceYzzssYnytIFQMfDOAU3z+aqXu1hH2mWoi9ybs5M4oYYDlnbtw0RDaiZSaQaZzfwWnUkQfLQ7evA==",
+  "dgSpecHash": "09wrWpky+nZT2bGXsoI23X7872DVN+vtMW8aFpfw02VDXFqJAahQwzMyTLyof7XnmpL7tSMXe6qBESVzKv6ssg==",
   "success": true,
   "projectFilePath": "/Users/w0xy/code/snake-cs/snake/snake.csproj",
   "expectedPackageFiles": [
-    "/Users/w0xy/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
-    "/Users/w0xy/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+    "/Users/w0xy/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/w0xy/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
   ],
   "logs": []
 }
