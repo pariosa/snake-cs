@@ -1,6 +1,8 @@
 # snake-cs
 ##this is a testing development environment for a c# game using the monogame framework
 
+https://www.youtube.com/watch?v=uzAXxFBbVoE
+
 ## how to install and build
 1.install dotnet-core
 2. then:
